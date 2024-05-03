@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-class Activity4
+class Program
 {
     static void Main()
     {
