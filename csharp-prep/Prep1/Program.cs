@@ -1,5 +1,5 @@
 using System;
-class Activity1
+class Program
 {   
     static void Main (string [] args)
     {
