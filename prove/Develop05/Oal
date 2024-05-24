@@ -1,0 +1,11 @@
+{
+  "Name": "Nefi",
+  "Goals": [
+    {
+      "Name": "Hola q tal",
+      "Points": 20,
+      "Completed": false
+    }
+  ],
+  "Score": 0
+}
